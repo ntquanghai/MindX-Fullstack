@@ -1,0 +1,48 @@
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.car-result img {
+  width: 300px;
+  height: auto;
+}
+.btn {
+  border: none;
+  padding: 4px 10px;
+  outline: none;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.btn-black {
+  background-color: #000000;
+  color: #fff;
+}
+
+.btn-white {
+  background-color: #fff;
+  color: #000000;
+  border: 1px solid #000000;
+}
+
+.btn-red {
+  background-color: red;
+  color: #fff;
+}
+
+.cartButton {
+  font-size: 28px;
+}
+
+.modal-dialog {
+  max-width: 100%;
+  width: 50%;
+}
